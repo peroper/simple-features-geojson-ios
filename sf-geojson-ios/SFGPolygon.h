@@ -7,7 +7,7 @@
 //
 
 #import "SFGGeometry.h"
-#import "SFPolygon.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Polygon type

@@ -7,7 +7,7 @@
 //
 
 #import "SFGGeometry.h"
-#import "SFMultiPoint.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Multi Point type

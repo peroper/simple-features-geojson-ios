@@ -7,8 +7,7 @@
 //
 
 #import "SFGGeoJSONObject.h"
-#import "SFGeometry.h"
-
+#import <sf_ios/sf_ios.h>
 /**
  * Coordinates key
  */

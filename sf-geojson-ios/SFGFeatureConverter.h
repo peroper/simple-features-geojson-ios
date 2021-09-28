@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "SFGGeometry.h"
-#import "SFGeometry.h"
+#import <sf_ios/sf_ios.h>
 #import "SFGPoint.h"
 #import "SFGLineString.h"
 #import "SFGPolygon.h"

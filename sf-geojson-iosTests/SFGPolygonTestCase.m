@@ -8,10 +8,7 @@
 
 #import "SFGPolygonTestCase.h"
 #import "SFGTestUtils.h"
-#import "SFLineString.h"
-#import "SFLinearRing.h"
-#import "SFPolygon.h"
-#import "SFGFeatureConverter.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 
 @implementation SFGPolygonTestCase
 

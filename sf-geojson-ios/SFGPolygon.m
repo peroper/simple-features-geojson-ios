@@ -7,8 +7,7 @@
 //
 
 #import "SFGPolygon.h"
-#import "SFGeometryUtils.h"
-#import "SFLinearRing.h"
+#import <sf_ios/sf_ios.h>
 #import "SFGPoint.h"
 
 NSString * const SFG_TYPE_POLYGON = @"Polygon";

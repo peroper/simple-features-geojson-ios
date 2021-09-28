@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SFGeometry.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 #import "SFGGeometry.h"
-#import "SFMultiPolygon.h"
 #import "SFGPosition.h"
 #import "SFGPoint.h"
 

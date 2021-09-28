@@ -7,21 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFGeometryEnvelope.h"
-#import "SFPoint.h"
-#import "SFLineString.h"
-#import "SFPolygon.h"
-#import "SFMultiPoint.h"
-#import "SFMultiLineString.h"
-#import "SFMultiPolygon.h"
-#import "SFGeometryCollection.h"
-#import "SFCircularString.h"
-#import "SFCompoundCurve.h"
-#import "SFCurvePolygon.h"
-#import "SFPolyhedralSurface.h"
-#import "SFTIN.h"
-#import "SFTriangle.h"
-
+#import <sf_ios/sf_ios.h>
 
 @interface SFGGeometryTestUtils : NSObject
 

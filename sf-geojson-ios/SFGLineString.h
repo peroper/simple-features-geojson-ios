@@ -7,7 +7,7 @@
 //
 
 #import "SFGGeometry.h"
-#import "SFLineString.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Line String type

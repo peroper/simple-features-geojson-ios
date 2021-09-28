@@ -7,7 +7,7 @@
 //
 
 #import "SFGGeometry.h"
-#import "SFGeometryCollection.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Geometry Collection type

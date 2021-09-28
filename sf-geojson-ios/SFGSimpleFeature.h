@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFGeometry.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * The simple feature

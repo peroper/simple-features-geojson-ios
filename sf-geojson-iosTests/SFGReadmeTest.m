@@ -8,9 +8,7 @@
 
 #import "SFGReadmeTest.h"
 #import "SFGTestUtils.h"
-#import "SFGeometry.h"
-#import "SFPoint.h"
-#import "SFGFeatureConverter.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 
 @implementation SFGReadmeTest
 

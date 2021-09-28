@@ -7,7 +7,7 @@
 //
 
 #import "SFGGeometry.h"
-#import "SFPoint.h"
+#import <sf_ios/sf_ios.h>
 #import "SFGPosition.h"
 
 /**
