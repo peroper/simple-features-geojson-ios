@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "simple-features-ios",
+        "repositoryURL": "git@github.com:peroper/simple-features-ios.git",
+        "state": {
+          "branch": "spm-support",
+          "revision": "808dd5d71ff8d0bc6283e06bdc8048f605af6246",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
